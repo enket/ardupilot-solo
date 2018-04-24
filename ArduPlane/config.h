@@ -55,7 +55,7 @@
 #endif
 
 #ifndef MAV_SYSTEM_ID
- # define MAV_SYSTEM_ID          1
+ # define MAV_SYSTEM_ID          106
 #endif
 
 //////////////////////////////////////////////////////////////////////////////
